@@ -1,4 +1,4 @@
-# ARA-Tools
+# ARA (Asus ROG Ally) Tools 
 Various resources, utilities and guides for the Asus ROG Ally (RC71L).
 
 ## Guides
