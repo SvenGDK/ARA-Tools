@@ -28,12 +28,12 @@ User guides, tools, troubleshooting tips and more stuff for the Asus ROG Ally (R
 - [Ubuntu Software & Gaming](https://github.com/SvenGDK/ARA-Tools/blob/main/Software%20%26%20Tools/UbuntuSoftware.md)
 
 ## Troubleshooting
-1. [Windows acts somehow unresponsive and takes a lot of time installing updates](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/SlowOSRec.md)
-2. [Missing (unlisted) driver after reinstalling Windows 11 with an USB drive](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/MissingROGAllyDriver.md)
-3. [Virtual keyboard does not show up on Windows Setup or within Windows after reinstalling Windows 11](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/VirtualKeyboardFixWindows.md)
-4. [On-screen keyboard does not show up on Ubuntu](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/VirtualKeyboardFixUbuntu.md)
-5. [Cannot install .NET Framework 3.5 from "Add Windows Features"](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/OptionalFeaturesStuck.md)
-6. [Cannot select an OS when using Dual Boot](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/DualBootOSSelection.md)https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/DualBootOSSelection.md
+- [Windows acts somehow unresponsive and takes a lot of time installing updates](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/SlowOSRec.md)
+- [Missing (unlisted) driver after reinstalling Windows 11 with an USB drive](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/MissingROGAllyDriver.md)
+- [Virtual keyboard does not show up on Windows Setup or within Windows after reinstalling Windows 11](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/VirtualKeyboardFixWindows.md)
+- [On-screen keyboard does not show up on Ubuntu](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/VirtualKeyboardFixUbuntu.md)
+- [Cannot install .NET Framework 3.5 from "Add Windows Features"](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/OptionalFeaturesStuck.md)
+- [Cannot select an OS when using Dual Boot](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/DualBootOSSelection.md)https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/DualBootOSSelection.md
 
 ## Additional stuff for the ROG Ally
 - [USB-C Docks](https://github.com/SvenGDK/ARA-Tools/blob/main/Other%20Stuff/USB-C-Docks.md)
