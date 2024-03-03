@@ -6,8 +6,8 @@ The ROG Ally has three Operating Modes: Silent, Performance, and Turbo, which ea
 - Performance mode : Operates @ 15W [Balance between performance & battery life]
 - Turbo mode : Operates @ 25W or 30W if plugged into the wall [Best performance]
 
-You can set the operating mode from Armoury Crate’s settings, as well as in individual Game Profiles.
-You can also create a custom Manual Operating Mode in Armoury Crate’s settings.
+You can set the operating mode from Armoury Crate’s settings, as well as in individual Game Profiles.</br>
+You can also create a custom Manual Operating Mode in Armoury Crate’s settings.</br>
 In Manual mode, you can even adjust these wattage values on-the-fly from Command Center.
 
 You can also disable CPU boosting under the Eco Assist tab if you'd like to experiment with allocating more of the system's power to the GPU, which can help improve performance or power efficiency in certain scenarios.
