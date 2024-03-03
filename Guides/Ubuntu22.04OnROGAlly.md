@@ -3,7 +3,7 @@
 ![ubuntually](https://github.com/SvenGDK/ARA-Tools/assets/84620/e14d2e05-18c5-4b8d-abbf-59825e5a4c2f)
 
 
-Ubuntu is almost running out of the box with Ubuntu 22.04.4 and only lacks WiFi support. This however can be fixed with an updated kernel.
+Ubuntu is almost running out of the box with Ubuntu 22.04.4 and only lacks WiFi support. This however can be fixed with an updated kernel.</br>
 When installing Ubuntu the first time it is recommended to use a USB-C dock with an Ethernet adapter, a free USB port and preferably also a keyboard attached.
 
 ## New Installation (Ubuntu only)
@@ -36,9 +36,9 @@ It is recommended to Install Windows 11 first.
 
 ## Wi-Fi Fix on 22.04.4 using zabbly kernel
 
-GITHUB : https://github.com/zabbly/linux
-NOTE : As those kernels aren't signed by a trusted distribution key, you may need to turn off Secure Boot on your system in order to boot this kernel.
-CHECK PUBLIC KEY : curl -fsSL https://pkgs.zabbly.com/key.asc | gpg --show-keys --fingerprint
+GITHUB : https://github.com/zabbly/linux</br>
+NOTE : As those kernels aren't signed by a trusted distribution key, you need to turn off Secure Boot in order to boot this kernel.</br>
+CHECK PUBLIC KEY : ```curl -fsSL https://pkgs.zabbly.com/key.asc | gpg --show-keys --fingerprint```
 
 1. Create the keyrings directory : ```sudo mkdir -p /etc/apt/keyrings/```
 2. Download the key : ```sudo curl -fsSL https://pkgs.zabbly.com/key.asc -o /etc/apt/keyrings/zabbly.asc```
@@ -71,8 +71,9 @@ EOF'
 
 ## Virtual (On-screen) keyboard
 
-Ubuntu also comes with an on-screen keyboard feature that can be enabled in the Accessibility settings -> Typing -> Screen keyboard
-The keyboard however is a tiny one and lacks of important keys. This can be fixed using the "Enhanced OSK" Gnome extension.
+Ubuntu also comes with an on-screen keyboard feature that can be enabled in the Accessibility settings -> Typing -> Screen keyboard</br>
+The keyboard however is a tiny one and lacks of important keys.</br>
+This can be fixed using the "Enhanced OSK" Gnome extension.
 
 1. Install the Gnome Shell integration : ```sudo apt install chrome-gnome-shell```
 2. Go to https://extensions.gnome.org/extension/6595/enhanced-osk/ and install the browser extenstion, reload the page and hit "Install"
