@@ -7,10 +7,10 @@ Flatpak
 - https://flathub.org/setup/Ubuntu
 
 GNOME Tweaks
-- ```sudo apt intall gnome-tweaks```
+- ```sudo apt install gnome-tweaks```
 
 MESA Utils
-- ```sudo apt intall mesa-utils```
+- ```sudo apt install mesa-utils```
 
 Nyrna
 - https://nyrna.merritt.codes/download
@@ -19,7 +19,7 @@ VLC Media Player
 - https://www.videolan.org/vlc/
 
 Vulkan Tools
-- ```sudo apt intall vulkan-tools```
+- ```sudo apt install vulkan-tools```
 
 # Gaming Launchers for Ubuntu
 
