@@ -1,5 +1,8 @@
 # Install Ubuntu 22.04.4 on the ROG Ally
 
+![ubuntually](https://github.com/SvenGDK/ARA-Tools/assets/84620/e14d2e05-18c5-4b8d-abbf-59825e5a4c2f)
+
+
 Ubuntu is almost running out of the box with Ubuntu 22.04.4 and only lacks WiFi support. This however can be fixed with an updated kernel.
 When installing Ubuntu the first time it is recommended to use a USB-C dock with an Ethernet adapter, a free USB port and preferably also a keyboard attached.
 
