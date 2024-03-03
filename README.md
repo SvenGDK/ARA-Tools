@@ -1,30 +1,36 @@
 # ARA (Asus ROG Ally) Tools 
-Various resources, utilities and guides for the Asus ROG Ally (RC71L).
+User guides, tools, troubleshooting tips and more stuff for the Asus ROG Ally (RC71L).
 
 ## Guides
-1. Setup the Asus ROG Ally for the first time
-2. Backup the ROG Ally
-3. Upgrading the internal SSD
-4. Reinstall Windows 11 through Asus Cloud Recovery
-5. Reinstall Windows 11 with an USB drive (recommended)
-6. How to remove Office completely
-7. How to disable Hyper-V, Device Guard, Credential Guard, and Memory Isolation (for virtualization and/or minimal performance boost in some games)
-8. Seamless upgrade to Windows 11 Pro
-9. Clean up SSD for additional space
-10. ...
+- Backup the ROG Ally
+- Upgrading the internal SSD
+- How to get into the BIOS settings
+- Reinstall Windows 11 through Asus Cloud Recovery
+- Reinstall Windows 11 with an USB drive (recommended)
+- How to remove Office completely
+- How to adjust GPU memory size
+- How to adjust joystick lightning
+- How to adjust brightness & sound within fullscreen applications
+- How to adjust performance
+- How to extend battery runtime
+- How to install Ubuntu 22.04 and get WiFi working
+  - Includes Dual Boot guide
+- Windows button combos & shortcuts
+- Run Android applications on Windows
+- Run Android applications on Ubuntu
+
+## Windows & Ubuntu Software
+- Windows Software & Gaming
+- Ubuntu Software & Gaming
 
 ## Troubleshooting
-1. Windows takes too much time installing updates
-2. Missing (unlisted) driver after reinstalling Windows 11
-3. Virtual Keyboard does not show up on Windows Setup or within Windows after reinstalling Windows 11
-4. Cannot install .NET Framework 3.5 from "Add Windows Features"
-5. ...
-
-## Drivers & Tools
-- Official drivers: https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/
-- ...
+1. Windows acts somehow unresponsive and takes a lot of time installing updates
+2. Missing (unlisted) driver after reinstalling Windows 11 with an USB drive
+3. Virtual keyboard does not show up on Windows Setup or within Windows after reinstalling Windows 11
+4. On-screen keyboard does not show up on Ubuntu
+5. Cannot install .NET Framework 3.5 from "Add Windows Features"
+6. Cannot select an OS when using Dual Boot
 
 ## Additional stuff for the ROG Ally
-- Compatible USB-C docks
+- USB-C Docks
 - Cases
-- Display protection
