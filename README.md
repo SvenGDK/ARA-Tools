@@ -1,36 +1,40 @@
 # ARA (Asus ROG Ally) Tools 
 User guides, tools, troubleshooting tips and more stuff for the Asus ROG Ally (RC71L).
 
+![ARA](https://github.com/SvenGDK/ARA-Tools/assets/84620/84c68b76-d031-4b43-ba42-3ef68b489384)
+
+
 ## Guides
-- Backup the ROG Ally
-- Upgrading the internal SSD
-- How to get into the BIOS settings
-- Reinstall Windows 11 through Asus Cloud Recovery
-- Reinstall Windows 11 with an USB drive (recommended)
-- How to remove Office completely
-- How to adjust GPU memory size
-- How to adjust joystick lightning
-- How to adjust brightness & sound within fullscreen applications
-- How to adjust performance
-- How to extend battery runtime
-- How to install Ubuntu 22.04 and get WiFi working
+- [Backup the ROG Ally](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/BackupROGAlly.md)
+- [Upgrading the internal SSD](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/UpgradeROGAlly.md)
+- [How to get into the BIOS settings](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/EnterBIOS.md)
+- [Reinstall Windows 11 through Asus Cloud Recovery](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/ReinstallWindows11CloudRecovery.md)
+- [Reinstall Windows 11 with an USB drive](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/ReinstallWindows11USB.md) (recommended)
+- [How to remove Office completely](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/RemoveOffice365.md)
+- [How to adjust GPU memory size](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/ACAdjustGPUMemorySize.md)
+- [How to adjust joystick lightning](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/ACAdjustLightning.md)
+- [How to adjust brightness & sound within fullscreen applications](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/CCAdjustBrightnessAndSound.md)
+- [How to adjust performance](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/CCAdjustPerformance.md)
+- [How to extend battery runtime](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/ExtendBatteryRuntime.md)
+- [How to install Ubuntu 22.04 and get WiFi working](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/Ubuntu22.04OnROGAlly.md)
   - Includes Dual Boot guide
-- Windows button combos & shortcuts
-- Run Android applications on Windows
-- Run Android applications on Ubuntu
+- [Windows button combos & shortcuts](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/WinMacroShortcuts.md)
+- [Run Android applications on Windows](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/WinSubsystemAndroid.md)
+- [Run Android applications on Ubuntu](https://github.com/SvenGDK/ARA-Tools/blob/main/Guides/UbuntuAndroid.md)
 
 ## Windows & Ubuntu Software
-- Windows Software & Gaming
-- Ubuntu Software & Gaming
+- [Official Asus Software](https://github.com/SvenGDK/ARA-Tools/blob/main/Software%20%26%20Tools/AsusTools.md)
+- [Windows Software & Gaming](https://github.com/SvenGDK/ARA-Tools/blob/main/Software%20%26%20Tools/WinSoftware.md)
+- [Ubuntu Software & Gaming](https://github.com/SvenGDK/ARA-Tools/blob/main/Software%20%26%20Tools/UbuntuSoftware.md)
 
 ## Troubleshooting
-1. Windows acts somehow unresponsive and takes a lot of time installing updates
-2. Missing (unlisted) driver after reinstalling Windows 11 with an USB drive
-3. Virtual keyboard does not show up on Windows Setup or within Windows after reinstalling Windows 11
-4. On-screen keyboard does not show up on Ubuntu
-5. Cannot install .NET Framework 3.5 from "Add Windows Features"
-6. Cannot select an OS when using Dual Boot
+1. [Windows acts somehow unresponsive and takes a lot of time installing updates](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/SlowOSRec.md)
+2. [Missing (unlisted) driver after reinstalling Windows 11 with an USB drive](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/MissingROGAllyDriver.md)
+3. [Virtual keyboard does not show up on Windows Setup or within Windows after reinstalling Windows 11](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/VirtualKeyboardFixWindows.md)
+4. [On-screen keyboard does not show up on Ubuntu](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/VirtualKeyboardFixUbuntu.md)
+5. [Cannot install .NET Framework 3.5 from "Add Windows Features"](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/OptionalFeaturesStuck.md)
+6. [Cannot select an OS when using Dual Boot](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/DualBootOSSelection.md)https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/DualBootOSSelection.md
 
 ## Additional stuff for the ROG Ally
-- USB-C Docks
-- Cases
+- [USB-C Docks](https://github.com/SvenGDK/ARA-Tools/blob/main/Other%20Stuff/USB-C-Docks.md)
+- [Cases](https://github.com/SvenGDK/ARA-Tools/blob/main/Other%20Stuff/Cases.md)https://github.com/SvenGDK/ARA-Tools/blob/main/Other%20Stuff/Cases.md
