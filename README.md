@@ -37,4 +37,4 @@ User guides, tools, troubleshooting tips and more stuff for the Asus ROG Ally (R
 
 ## Additional stuff for the ROG Ally
 - [USB-C Docks](https://github.com/SvenGDK/ARA-Tools/blob/main/Other%20Stuff/USB-C-Docks.md)
-- [Cases](https://github.com/SvenGDK/ARA-Tools/blob/main/Other%20Stuff/Cases.md)https://github.com/SvenGDK/ARA-Tools/blob/main/Other%20Stuff/Cases.md
+- [Cases](https://github.com/SvenGDK/ARA-Tools/blob/main/Other%20Stuff/Cases.md)
