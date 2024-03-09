@@ -21,10 +21,10 @@
 
 # Bring up the On-screen Keyboard in Windows 11
 
-Press the Command Center button and tap the Keyboard option that appears in the menu.
+Press the Command Center button and tap the Keyboard option that appears in the menu.</br>
 You can also hold the M1 or M2 button on the back and press Up on the D-Pad.
 
-If you reinstall Windows 11 without using the Cloud Recovery then the touch Keyboard will not show up by default.
-You can change this setting in the Windows Settings -> Time & Language -> Typing -> Touch Keyboard -> Show the touch keyboard
-Set it to "When no keyboard attached" and try if the keyboard shows up automatically.
+If you reinstall Windows 11 without using the Cloud Recovery then the touch Keyboard will not show up by default.</br>
+You can change this setting in the Windows Settings -> Time & Language -> Typing -> Touch Keyboard -> Show the touch keyboard</br>
+Set it to "When no keyboard attached" and try if the keyboard shows up automatically.</br>
 If it doesn't work then set it to "Always", then back to "When no keyboard attached" and restart Windows.

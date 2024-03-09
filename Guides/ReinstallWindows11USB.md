@@ -6,8 +6,8 @@ Windows 11 Media Creation Tool :
 Drivers :
 - https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/
 
-NOTE 1 : A USB-C dock is required if you don't install Windows from a USB-C drive. (Didn't test with MicroSD yet)
-NOTE 2 : A driver is missing on the Asus website -> 
+NOTE 1 : A USB-C dock is required if you don't install Windows from a USB-C drive. (Didn't test with MicroSD yet)</br>
+NOTE 2 : A driver is missing on the Asus website -> [Missing (unlisted) driver after reinstalling Windows 11 with an USB drive](https://github.com/SvenGDK/ARA-Tools/blob/main/Troubleshooting/MissingROGAllyDriver.md)
 
 1. Hold the volume down button and press the power button to turn the device on. It should boot into the BIOS menu.
 2. Select "Boot Menu" from the bottom and select your created USB drive
