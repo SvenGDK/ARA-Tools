@@ -24,6 +24,7 @@ User guides, tools, troubleshooting tips and more stuff for the Asus ROG Ally (R
 
 ## Windows & Ubuntu Software
 - [Ally11Creator](https://github.com/SvenGDK/ARA-Tools/tree/main/Software%20%26%20Tools/ally11)
+- [OrbisPro](https://github.com/SvenGDK/OrbisPro)
 - [Official Asus Software](https://github.com/SvenGDK/ARA-Tools/blob/main/Software%20%26%20Tools/AsusTools.md)
 - [Windows Software & Gaming](https://github.com/SvenGDK/ARA-Tools/blob/main/Software%20%26%20Tools/WinSoftware.md)
 - [Ubuntu Software & Gaming](https://github.com/SvenGDK/ARA-Tools/blob/main/Software%20%26%20Tools/UbuntuSoftware.md)
